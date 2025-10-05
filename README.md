@@ -48,18 +48,18 @@ This project integrates **Excel**, **Python**, and **Power BI (with DAX)** to de
 ### 2️⃣ Patients Dashboard
 
 **Key Metrics (KPIs):**
-- Total Patients → 606  
+- Total Patients → 5000  
 - Avg Age: 49  
-- Total Medication Cost → £67K  
-- Avg Medication Cost: £110.85  
-- Total Treatment Cost → £312K  
-- Avg Treatment Cost: £514.88  
-- Total Insurance Coverage → £272K  
-- Avg Insurance Coverage: £448.99  
-- Out of Pocket → £139K  
-- Avg Out of Pocket: £229.92  
-- Total Room Charges → £32K  
-- Avg Room Charges: £53.18  
+- Total Medication Cost → £546K  
+- Avg Medication Cost: £109.21  
+- Total Treatment Cost → £3M 
+- Avg Treatment Cost: £526.08
+- Total Insurance Coverage → £2M  
+- Avg Insurance Coverage: £456.05 
+- Out of Pocket → £1M
+- Avg Out of Pocket: £216.34 
+- Total Room Charges → £180K  
+- Avg Room Charges: £36.12  
 
 **Visuals:**
 - Donut Charts: Total Visits by Insurance Provider / Gender / Service Type  
